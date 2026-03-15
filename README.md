@@ -56,4 +56,4 @@ For detailed setup instructions for both Node and Python servers, see our [Setup
 For architectural details and how to extend the platform, see our [Developer Guide](docs/developer_guide.md).
 
 ## 🤝 Contributing
-Please see our [Contributing Guidelines](.md) for details on how to submit pull requests to this project.
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests to this project.
