@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Node.js](https://img.shields.io/badge/node.js-TypeScript-green)
-![Hackathon](https://img.shields.io/badge/Smart_India_Hackathon-2025-orange)
 
 > **A neuro-symbolic multi-agent platform autonomously orchestrating decisions across siloed enterprise departments.**
 
@@ -49,12 +48,12 @@ By utilizing a centralized orchestrator and specialized domain agents, the platf
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tamil-selvan-k/multi-agent-decision-engine.git
-   cd multi-agent-decision-engine
+   git clone https://github.com/tamil-selvan-k/Multi-Agent-Decision-Engine.git
+   cd Multi-Agent-Decision-Engine
    ```
 
 For detailed setup instructions for both Node and Python servers, see our [Setup Guide](docs/setup.md).
 For architectural details and how to extend the platform, see our [Developer Guide](docs/developer_guide.md).
 
 ## 🤝 Contributing
-Please see our [Contributing Guidelines](contributing.md) for details on how to submit pull requests to this project.
+Please see our [Contributing Guidelines](.md) for details on how to submit pull requests to this project.
